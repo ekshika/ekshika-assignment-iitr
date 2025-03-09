@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ekshika-assignment-iitr/static/css/main.1505da55.css",
+    "main.js": "/ekshika-assignment-iitr/static/js/main.d99fab3b.js",
+    "static/js/453.494dafbd.chunk.js": "/ekshika-assignment-iitr/static/js/453.494dafbd.chunk.js",
+    "index.html": "/ekshika-assignment-iitr/index.html",
+    "main.1505da55.css.map": "/ekshika-assignment-iitr/static/css/main.1505da55.css.map",
+    "main.d99fab3b.js.map": "/ekshika-assignment-iitr/static/js/main.d99fab3b.js.map",
+    "453.494dafbd.chunk.js.map": "/ekshika-assignment-iitr/static/js/453.494dafbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1505da55.css",
+    "static/js/main.d99fab3b.js"
+  ]
+}
